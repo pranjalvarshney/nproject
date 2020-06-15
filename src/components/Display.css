@@ -1,0 +1,26 @@
+.header{
+    height: 120px;
+    display: flex;
+    background-color: darkslateblue;
+    font-size: 60px;
+    color: beige;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.heading-img{
+    padding-right: 2%;
+    height: 80px;
+    width: 80px;
+
+}
+.heading-img:hover{
+    transform: rotate(10deg);
+    height: 85px;
+    width: 85px;
+}
